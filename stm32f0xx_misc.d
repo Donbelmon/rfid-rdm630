@@ -1,0 +1,13 @@
+.\stm32f0xx_misc.o: STM32F0xx_StdPeriph_Driver\src\stm32f0xx_misc.c
+.\stm32f0xx_misc.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h
+.\stm32f0xx_misc.o: C:\Keil_v5\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\stm32f0xx_misc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\stm32f0xx_misc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\stm32f0xx_misc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\stm32f0xx_misc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\stm32f0xx_misc.o: C:\Keil_v5\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h
+.\stm32f0xx_misc.o: .\inc\stm32f0xx_conf.h
+.\stm32f0xx_misc.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\stm32f0xx_misc.o: C:\Keil_v5\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\stm32f0xx_misc.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
+.\stm32f0xx_misc.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h

@@ -1,0 +1,15 @@
+.\myuarts.o: src\MyUARTS.c
+.\myuarts.o: C:\Keil_v5\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\myuarts.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\myuarts.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\myuarts.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\myuarts.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\myuarts.o: C:\Keil_v5\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h
+.\myuarts.o: .\inc\stm32f0xx_conf.h
+.\myuarts.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\myuarts.o: C:\Keil_v5\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\myuarts.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
+.\myuarts.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h
+.\myuarts.o: .\inc\stm32f0xx_it.h
+.\myuarts.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\myuarts.o: .\inc\MyUARTS.h

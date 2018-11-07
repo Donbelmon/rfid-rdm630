@@ -1,0 +1,17 @@
+.\terminal.o: src\terminal.c
+.\terminal.o: C:\Keil_v5\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\terminal.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\terminal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\terminal.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\terminal.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\terminal.o: C:\Keil_v5\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h
+.\terminal.o: .\inc\stm32f0xx_conf.h
+.\terminal.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\terminal.o: C:\Keil_v5\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\terminal.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
+.\terminal.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h
+.\terminal.o: .\inc\stm32f0xx_it.h
+.\terminal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\terminal.o: .\inc\MyUARTS.h
+.\terminal.o: .\inc\Lector_FSM.h
+.\terminal.o: .\inc\terminal.h
